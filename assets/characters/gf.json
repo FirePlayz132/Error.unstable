@@ -193,12 +193,12 @@
 		0,
 		0
 	],
-	"healthicon": "gf",
+	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
 		0,
-		77
+		0,
+		0
 	],
 	"camera_position": [
 		0,
