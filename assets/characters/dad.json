@@ -123,15 +123,15 @@
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
-		0,
-		0
+		900,
+		900
 	],
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		0,
+		0,
+		0
 	],
 	"camera_position": [
 		0,
